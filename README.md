@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azino9" alt="azino9" /></a> </p>
 
-- 🔭 I’m currently working on **TraCera - Full-stack MERN project with role-based dashboards, booking system, and secure payments (Stripe + Razorpay).**
+- 🔭 I’m currently working on **Trekka - Full-stack MERN project with role-based dashboards, booking system, and secure payments (Stripe + Razorpay).**
 
 - 🌱 I’m currently learning **Next.js, FastAPI, Docker, GSAP Animations, Tailwind CSS, MongoDB Performance Optimization**
 
