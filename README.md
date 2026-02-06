@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar Samal</h1>
 <h3 align="center">A passionate Software Engineer & Full-stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azino9&label=Profile%20views&color=0e75b6&style=flat" alt="azino9" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azino9" alt="azino9" /></a> </p>
-
 - 🔭 I’m currently Currently Technical Team lead at Microsoft student-learn chapter Club-KARE**
 
 - 📫 How to reach me **mohitkamar.samal9@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XcKFcDe8Z92Wkx74eRn4dO7QAiXH_AJ8/view?usp=sharing](https://drive.google.com/file/d/1XcKFcDe8Z92Wkx74eRn4dO7QAiXH_AJ8/view?usp=sharing)
 
 - ⚡ Fun fact **I believe you can’t control the wind, but you can adjust your sail — that’s how I tackle challenges, learning quick and moving swiftly without repeating mistakes.**
 
