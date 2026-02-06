@@ -5,15 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azino9" alt="azino9" /></a> </p>
 
-- 🔭 I’m currently working on **Trekka - Full-stack MERN project with role-based dashboards, booking system, and secure payments (Stripe + Razorpay).**
-
-- 🌱 I’m currently learning **Next.js, FastAPI, Docker, GSAP Animations, Tailwind CSS, MongoDB Performance Optimization**
-
-- 👯 I’m looking to collaborate on **FloatChat – AI-Powered Ocean Data Assistant 🌊**
-
-- 🤝 I’m looking for help with **XYRA - AI-Powered Career Mentor 🎓 AI-driven platform for career guidance, resume analysis, and internship/job matching. Looking for contributors in NLP + Job Scraping APIs.**
-
-- 💬 Ask me about **React ⚛️ | MERN Stack | GSAP Animations 🎨 | Docker 🐳 | OAuth 🔐 | Payment Gateway Integration 💳**
+- 🔭 I’m currently Currently Technical Team lead at Microsoft student-learn chapter Club-KARE**
 
 - 📫 How to reach me **mohitkamar.samal9@gmail.com**
 
